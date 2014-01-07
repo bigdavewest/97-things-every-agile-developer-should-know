@@ -44,5 +44,5 @@ if you think the other parts of the organization are just being stupid you have 
 [NOTE]
 ****
 Name:: Dave West
-Biography:: Chief Product Officer, Tasktop
+Biography:: Dave West is the Chief Product Officer at Tasktop. . He is a frequent keynote at major industry conferences and is a widely published author of articles and research reports, along with his acclaimed book: Head First Object-Oriented Analysis and Design, that helped define new software modeling and application development processes. He led the development of the Rational Unified Process (RUP) for IBM/Rational. After IBM/Rational, West returned to consulting and managed Ivar Jacobson Consulting for North America. Then prior to joining Tasktop he served as vice president, research director at Forrester Research, where he ran the software development and delivery practice. 
 ****
